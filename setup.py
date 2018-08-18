@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(name='tvnplayer',
       version='0.9.0',
-      description='Tiny helper for playing http://tvnplayer.pl/ content in Linux',
+      description='Tiny helper for playing https://player.pl/ content on Linux',
       author='Lukasz Kawczynski',
       py_modules=['tvnplayer'],
       install_requires=[
